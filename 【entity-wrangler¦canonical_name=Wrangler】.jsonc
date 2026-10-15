@@ -1,0 +1,13 @@
+{
+  "name": "skb-education-ecosystem-v2",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-02-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "skb-education-db",
+      "database_id": "2d2aeabe-a7c9-41d8-b23d-656395c46326"
+    }
+  ]
+}
