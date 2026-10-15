@@ -2,12 +2,12 @@
   "name": "skb-eco-simple",
   "version": "0.1.0",
   "scripts": {
-    "deploy": "【entity-wrangler¦canonical_name=Wrangler】 deploy"
+    "deploy": "wrangler deploy"
   },
   "dependencies": {
     "hono": "^4.6.0"
   },
   "devDependencies": {
-    "【entity-wrangler¦canonical_name=Wrangler】": "^4.15.0"
+    "wrangler": "^4.15.0"
   }
 }
